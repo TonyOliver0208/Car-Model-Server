@@ -1,10 +1,10 @@
-pandas
-matplotlib
+# pandas
+# matplotlib
 torch
 torchvision
-tqdm
-scikit-learn
-seaborn
+# tqdm
+# scikit-learn
+# seaborn
 fastapi
 uvicorn
 pillow
